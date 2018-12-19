@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: ef0a036445336a34c9d490f74318c068
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Arkanoid Doh It Again - Explosion_0
+    21300002: SNES - Arkanoid Doh It Again - Explosion_1
+    21300004: SNES - Arkanoid Doh It Again - Explosion_2
+    21300006: SNES - Arkanoid Doh It Again - Explosion_3
+    21300008: SNES - Arkanoid Doh It Again - Explosion_4
+    21300010: SNES - Arkanoid Doh It Again - Explosion_5
+    21300012: SNES - Arkanoid Doh It Again - Explosion_6
+    21300014: SNES - Arkanoid Doh It Again - Explosion_7
+    21300016: SNES - Arkanoid Doh It Again - Explosion_8
+    21300018: SNES - Arkanoid Doh It Again - Explosion_9
+    21300020: SNES - Arkanoid Doh It Again - Explosion_10
+    21300022: SNES - Arkanoid Doh It Again - Explosion_11
+    21300024: SNES - Arkanoid Doh It Again - Explosion_12
+    21300026: SNES - Arkanoid Doh It Again - Explosion_13
+    21300028: SNES - Arkanoid Doh It Again - Explosion_14
+    21300030: SNES - Arkanoid Doh It Again - Explosion_15
+    21300032: SNES - Arkanoid Doh It Again - Explosion_16
+    21300034: SNES - Arkanoid Doh It Again - Explosion_17
+    21300036: SNES - Arkanoid Doh It Again - Explosion_18
+    21300038: SNES - Arkanoid Doh It Again - Explosion_19
+    21300040: SNES - Arkanoid Doh It Again - Explosion_20
+    21300042: SNES - Arkanoid Doh It Again - Explosion_21
+    21300044: SNES - Arkanoid Doh It Again - Explosion_22
+    21300046: SNES - Arkanoid Doh It Again - Explosion_23
+    21300048: SNES - Arkanoid Doh It Again - Explosion_24
+    21300050: SNES - Arkanoid Doh It Again - Explosion_25
+    21300052: SNES - Arkanoid Doh It Again - Explosion_26
+    21300054: SNES - Arkanoid Doh It Again - Explosion_27
+    21300056: SNES - Arkanoid Doh It Again - Explosion_28
+    21300058: SNES - Arkanoid Doh It Again - Explosion_29
+    21300060: SNES - Arkanoid Doh It Again - Explosion_30
+    21300062: SNES - Arkanoid Doh It Again - Explosion_31
+    21300064: SNES - Arkanoid Doh It Again - Explosion_32
+    21300066: SNES - Arkanoid Doh It Again - Explosion_33
+    21300068: SNES - Arkanoid Doh It Again - Explosion_34
+    21300070: SNES - Arkanoid Doh It Again - Explosion_35
+    21300072: SNES - Arkanoid Doh It Again - Explosion_36
+    21300074: SNES - Arkanoid Doh It Again - Explosion_37
+    21300076: SNES - Arkanoid Doh It Again - Explosion_38
+    21300078: SNES - Arkanoid Doh It Again - Explosion_39
+    21300080: SNES - Arkanoid Doh It Again - Explosion_40
+    21300082: SNES - Arkanoid Doh It Again - Explosion_41
+    21300084: SNES - Arkanoid Doh It Again - Explosion_42
+    21300086: SNES - Arkanoid Doh It Again - Explosion_43
+    21300088: SNES - Arkanoid Doh It Again - Explosion_44
+    21300090: SNES - Arkanoid Doh It Again - Explosion_45
+    21300092: SNES - Arkanoid Doh It Again - Explosion_46
+    21300094: SNES - Arkanoid Doh It Again - Explosion_47
+    21300096: SNES - Arkanoid Doh It Again - Explosion_48
+    21300098: SNES - Arkanoid Doh It Again - Explosion_49
+    21300100: SNES - Arkanoid Doh It Again - Explosion_50
+    21300102: SNES - Arkanoid Doh It Again - Explosion_51
+    21300104: SNES - Arkanoid Doh It Again - Explosion_52
+    21300106: SNES - Arkanoid Doh It Again - Explosion_53
+    21300108: SNES - Arkanoid Doh It Again - Explosion_54
+    21300110: SNES - Arkanoid Doh It Again - Explosion_55
+    21300112: SNES - Arkanoid Doh It Again - Explosion_56
+    21300114: SNES - Arkanoid Doh It Again - Explosion_57
+    21300116: SNES - Arkanoid Doh It Again - Explosion_58
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69df3f4ff46d3418b25e6a047e8c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 286
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91377d996230d204a80ba3694e93e16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28126aaef91f4874f9cfdcdfee816db9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 281
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3aed76b35f58941b004a55cdf27776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 279
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c973123f2ad2e9428be63ac81f6a256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 290
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b5d7a38bd3f743b0caf1c7f1051b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 277
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d149ef3fc8c846bcab9be6be78ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 289
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dbacba5b5b87b4f9cbeeb808b5a93d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 276
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3a4f39bc03f348bd0a78831bde4b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 278
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3eae85b6bb0f84f98970f5f255b1bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 246
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6086ad51b4181f4ba73baaa9255e2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 248
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed1cc0b33fdd04eb6fd51e21910a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 246
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff558bd4238d0cc4f93a50e2325b0145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 189
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1670638860b9441b414dede201656d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 211
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc15c9f004dd36468ad43a01eecf226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298eaf6c12bcf94da4a9da9d298e792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 204
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ccf682a302c0341a53f9dd89e6f8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 201
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09865daab565754a8df4496996172fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 196
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd941caccd311418d9a15bcf643a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3ce5bc01e5e84793322b0bf009783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 217
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136498d3f4dd53438d972fd5d3b369a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b975fe738a864da6d16593b936ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b821c37c8a63a0449e288ea38d4dbcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 220
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5ede6050f33947bb4b8b664e6203d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c120d7e4bb7145a05781933f8b9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a0112c7f23424fbcab480c8f2501b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 191
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627d4c15c90e664a88670af1008237e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 141
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f059edd7735349b0962575a491d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 140
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8086fd8f38f94c9c1489e6dc60b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 139
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52245e47e869c464eb4f3a398447f686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78064b781b429d345abfffb5cc44a321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7b9f1b6d3ade48907392ae8b911c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76fa4dd321550b4f99791dfa1c1595d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 138
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599264a94453b5409959c3295884caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 140
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20550d46c434fb45b785c6eb31b5d60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 142
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848150441fbd33d4180b5d1b1fd5f6eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 144
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806d9c4ba81f0845b0cae2ced638cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 145
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f27306f04653e4e8ca36f75c7bfd80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 144
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d316d159c3b91ac40a92bf6d79cc5743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbd0a5b2dd89742b2ae0fafc574c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 147
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde3c572e29fec418bb1128b732cb2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 133
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9171f759e1cc7d42aec0585caef2828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 130
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ace265c4645354d90fcc7ef28e747e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_46
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 133
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1d1fdf45b33f4a8e3ae71103498ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_47
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74cedf81ba6ef84ab0e4ff2f8b67728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 119
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4348465b8248b640a8f61089e14084f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e81253f1889624d820e37e46fcbb80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10453fb5f334c459b3fec8c8de0c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d6df8384167540ae6deb59c19b6b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc14017c9c2d94b87550cbe69a2942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 86
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b947b5ec67839d4b9eca39685b3f471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5b7c8ddbc2ad4aa01adb0924d1d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 102
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e904d25beacc4459116df8cc749aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 105
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a659ae9af5f6748be2dfe0d6d81841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622badbeccd75c7498eda58ab7702a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Explosion_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778faab5aa55454f8b76f419dd7da3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6aab82d4c78050d488938e630b8f7766
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

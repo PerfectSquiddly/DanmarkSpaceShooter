@@ -1,0 +1,3186 @@
+fileFormatVersion: 2
+guid: a9a1c9c7d6a89524d873a830eeb6be5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_0
+    21300002: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_1
+    21300004: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_2
+    21300006: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_3
+    21300008: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_4
+    21300010: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_5
+    21300012: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_6
+    21300014: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_7
+    21300016: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_8
+    21300018: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_9
+    21300020: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_10
+    21300022: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_11
+    21300024: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_12
+    21300026: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_13
+    21300028: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_14
+    21300030: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_15
+    21300032: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_16
+    21300034: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_17
+    21300036: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_18
+    21300038: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_19
+    21300040: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_20
+    21300042: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_21
+    21300044: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_22
+    21300046: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_23
+    21300048: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_24
+    21300050: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_25
+    21300052: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_26
+    21300054: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_27
+    21300056: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_28
+    21300058: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_29
+    21300060: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_30
+    21300062: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_31
+    21300064: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_32
+    21300066: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_33
+    21300068: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_34
+    21300070: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_35
+    21300072: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_36
+    21300074: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_37
+    21300076: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_38
+    21300078: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_39
+    21300080: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_40
+    21300082: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_41
+    21300084: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_42
+    21300086: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_43
+    21300088: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_44
+    21300090: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_45
+    21300092: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_46
+    21300094: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_47
+    21300096: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_48
+    21300098: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_49
+    21300100: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_50
+    21300102: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_51
+    21300104: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_52
+    21300106: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_53
+    21300108: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_54
+    21300110: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_55
+    21300112: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_56
+    21300114: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_57
+    21300116: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_58
+    21300118: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_59
+    21300120: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_60
+    21300122: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_61
+    21300124: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_62
+    21300126: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_63
+    21300128: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_64
+    21300130: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_65
+    21300132: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_66
+    21300134: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_67
+    21300136: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_68
+    21300138: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_69
+    21300140: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_70
+    21300142: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_71
+    21300144: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_72
+    21300146: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_73
+    21300148: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_74
+    21300150: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_75
+    21300152: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_76
+    21300154: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_77
+    21300156: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_78
+    21300158: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_79
+    21300160: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_80
+    21300162: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_81
+    21300164: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_82
+    21300166: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_83
+    21300168: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_84
+    21300170: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_85
+    21300172: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_86
+    21300174: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_87
+    21300176: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_88
+    21300178: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_89
+    21300180: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_90
+    21300182: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_91
+    21300184: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_92
+    21300186: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_93
+    21300188: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_94
+    21300190: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_95
+    21300192: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_96
+    21300194: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_97
+    21300196: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_98
+    21300198: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_99
+    21300200: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_100
+    21300202: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_101
+    21300204: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_102
+    21300206: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_103
+    21300208: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_104
+    21300210: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_105
+    21300212: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_106
+    21300214: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_107
+    21300216: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_108
+    21300218: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_109
+    21300220: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_110
+    21300222: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_111
+    21300224: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_112
+    21300226: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_113
+    21300228: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_114
+    21300230: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_115
+    21300232: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_116
+    21300234: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_117
+    21300236: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_118
+    21300238: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_119
+    21300240: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_120
+    21300242: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_121
+    21300244: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_122
+    21300246: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_123
+    21300248: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_124
+    21300250: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_125
+    21300252: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_126
+    21300254: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_127
+    21300256: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_128
+    21300258: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_129
+    21300260: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_130
+    21300262: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_131
+    21300264: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_132
+    21300266: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_133
+    21300268: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_134
+    21300270: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_135
+    21300272: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_136
+    21300274: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_137
+    21300276: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_138
+    21300278: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_139
+    21300280: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_140
+    21300282: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_141
+    21300284: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_142
+    21300286: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_143
+    21300288: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_144
+    21300290: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_145
+    21300292: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_146
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 655
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf5736284128641bdd0683cbbd7c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 655
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e0bbc0aa438a438df5b642c533fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 655
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cd9fe77cab2c479a72374603174f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 655
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd6cce721e43c43b46b31a42c1e19b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 655
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9994e6e1443dc42a481b4e6d133500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 655
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c31f05160c6234eaaf6f9d4b6f8065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 655
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae110d89c77ae2479f62e67604e8179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 655
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde941d70c974e4e9aec5ab0245337d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 659
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002af186a107cc34387ef5d6b39f7997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 669
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5581784d051e4d9e97f8f459a8174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 659
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d35d462adf2d449043b1fba24ea90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 660
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f708de803038934db1f2f0cc5eae0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 660
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f203ef871af3c4aa89fc709a2b099d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 660
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f4ee8073182424e93b8e06aed8a581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 659
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417db30d87c7f0441987c20a5d491517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 659
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649c8bf106a31b4a9e7c85d48761a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 659
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6947d6d0245740a0583eb0a3e4cfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 659
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4c96140d976c45b02fc2b79791348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 659
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f23c577fd7a6b48b6f502c1f396aa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 659
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3111c68f1d2105e46ac496964de77836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 659
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87945206e70fbc1429d4c4d1e76ab05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 659
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a180f7eeed319444a7d556abf83cd15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 659
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6868c2b5033134385103c4264dd8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 659
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6671d61d7ff284f9fc19604bbb471b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 660
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5450d3f051297e49bfdb701df7d6373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_25
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 660
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94dbcc7835f4f04383fd1a7bfe459ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 660
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a381bc7c4342548a9576210c0966c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 669
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4e2db8dfa5ab4b8aa29ac5a7e0f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_28
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 659
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64c685dcd578b41bee7d10192303ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_29
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 659
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f8a9191213d646945441c934c1fd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf32713da01cd54d99cb3066b3f0227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 616
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717021dcee48b34c8590820f0038509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 616
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d0d4a4087f2a4428f13c208f432609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 616
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344472962000bd847b0b053b51105f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 616
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ec41d03e012f4586f32442f6a1c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 616
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc345a556c5fab4399db7c81f5bb0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 616
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03abc13c6b51524f85d738a079cd76c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 616
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a736612c558b647b07d9037bcdab3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 616
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf30bfa169822c4bbe9cf5eee5ecb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 631
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f02c263289eb947be10b08addff013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_40
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 626
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368660a26d71e1e44a94b3912f13d8f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 617
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28273502b99fe41951fb88445bc7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 617
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723c22958bfc8d44a72afb0b74b1146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 617
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061ad3592bc5d14784f992284f017c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 616
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624638206eb1f21479e8cfe0f993f185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 616
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8c43462c617c42a699e35828cecdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 616
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33e3ee7a1ec21546bf439e1f9fb34da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 616
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79fc520a8edd0408382406423925b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_48
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 616
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6bf5993bcb044eb4dbaad8ae3c66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_49
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 616
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3336d1407fb145489b3cf645f71fd78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 616
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b735c0f45696d468fdfff19dbb49bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_51
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 616
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2b262f9841e084c826effe5f773f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_52
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 616
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c4fe46b092099428309a5e4e2259db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_53
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 616
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f7c928174dbc4ca8e424b295928da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_54
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 617
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969eb9234fffc784794d6df07baf1495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_55
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 617
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9831c37c0a9ea4684cdf56cfa856b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_56
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 617
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9928ea63639f4744b34163f49d54ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_57
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 626
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2670bdc91f596c4f88dac09c5aee601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_58
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 631
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8076e805db3e3640bc902c80a735c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_59
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 616
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa46136887a60439280e07e4a4d5bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_60
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 616
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af7dc3386e31c43880ac8d3a932189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_61
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 616
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f66e757072afb469d728266c198e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 595
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27effd7027a5fe34bbe6c610ee22ff1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 523
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142eae525177d334fb572a2d2a9eaa55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 530
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb641205a934f542ae5fe108e4da123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 529
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23bfd1e556edd40a0a9733ba8e327b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 459
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b21f8565565b545a4205b806eaeda5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 459
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75f0d1f9a2a8541b6cb292f578f8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 529
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731164a8efef8f479cafb643932aff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 534
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e6f9dc62e6f34392b204271d45f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_70
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 463
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77208350167d94abce8be906d129b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_71
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 459
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db2cb152bcf97408b195b10d96cc70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 491
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a010a02d132b4a43869b6277d44e0e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 511
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68d544a2a022b4599dc285f30ea315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_74
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 499
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffa1c21204b0b49b02acefbfe59409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_75
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 496
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e2135e06f51dc4ea1082802d77b01c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0fefdb6c1eaa47a7cb3d8d4f6cbdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 383
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81013fc03777cf54a9bf9271046056bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 420
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02660c03e3fa6d24f947d0971c5adb8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 398
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7891123caa2e9499cd2d0b8c34cf60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_80
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 408
+        width: 192
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cf58b974af6e4c88e1f8b3a1abed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 416
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ddaef1ca438c428268b4994964a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_82
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 401
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2dd639f3ec854f87cf2ad24bde2c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 408
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308f57887df70e44997047b28863d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 236
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf01f285863c074e8ce04ac08c3ad87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_85
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 236
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982ffd33e94af648b9a3aaba6232155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 276
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6291482132b8a9046ab02cf5039188cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_87
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 273
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91fcfb47a63774eb68af8913667ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 240
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca1621cc6472945a76f789f2a3f255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_89
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 236
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81df47fa83802a43b3e56f59ec46637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4639d6e715d0c7468e272c11d61df6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_91
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 197
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ff28703b4decb43b27271e7820e562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 175
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913151940e57c3488660944710c6ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 185
+        width: 192
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746f5b78dffb6c4ca9dc584018fe789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_94
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420220e140a66914397e28c7b5990f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_95
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 178
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22990e097a9a15b47b4d0dd94544981f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 185
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea70c12ef1b2c842860a7e841ac6703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 89
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953bb8a4d88c1c479c5c21ed595ec04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 85
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f35c319ee9bd44a254e3b96260612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_99
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217212270d8ddc409b0628c3f9b283f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 90
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f710631615844eb2a4b7e6c47a998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 120
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac335dd37a85ad4784b82e5dc9430a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_102
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 84
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204277a716376df41a2285013f2e3953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_103
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 125
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe3dadf7d9bcf449cff30b8e8dffb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_104
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 51
+        width: 401
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227f4d52f20758045a452c72b2aa845b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 117
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906b922944a692459e1e0fac2dc0cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef9249189084334ca4d529c7c85a885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 110
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aefafb8cca744d42924dec4f444eb7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30256ec0ec57f3840b6dd1fc922d6ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee69b1c9f2f4bb498027190c78d42dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_110
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 92
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740dac248d9b4d745957cc3e6f73f5a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_111
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 99
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1fccf3678784a49a366b829701213e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_112
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416df1c575b28445a4f69a48c59dc8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_113
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 83
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ba76d118674b499c680dfb108e158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_114
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fcd514056c5364e95c3e23d13ce11a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_115
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca288272529d9d47a716f5d7c865cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_116
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6facab6e9c2da19439322ed37ed9f910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_117
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 104
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bcec0a97f51c42a23e47903d6748a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 92
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d7a9201eb9ef489a47cca4bb456e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 82
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8769a57c8fd54c829f7dad3f17c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_120
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6239290545264cae1aaa6e5182c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_121
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 81
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78359dabe89e7194db778e0b8d87a821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 84
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4d84e3c32df844096598b9ce615512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360fd1405917a04a844672ecb27c684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a494a21d31d786249a230f4f868776c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_125
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375778fc69f5d7146babd5edeeb7d3b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e922efb281243442a6e873774376896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_127
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c772ca1854b74d46bc2f2db04895957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_128
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f063471f428a4be4f987a81acc5eab86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_129
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 49
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ece1e92d992c43927eb0219d46a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_130
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d5c8de17dca04fb712ff50a5e43fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_131
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 36
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db099991e1d6aa4084fee7e12e6d54f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_132
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 28
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87111d9ea88e44c9f181fbd49d9560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_133
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 22
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66dfd00540b1484da9b991878b92eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a156c66164b6e48912c3026cf98392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_135
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809280611cfd9b499f1ef2e9694549c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201591e84873a5445906ab234f8bfad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_137
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 28
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28831460e4a42814aa56523ee767bb03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e814ccb40a66e42b929fe96982352e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603b58031eb0e3c49b1207dafef6d494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_140
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27cf709ad10e0f45ad08da67e656617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_141
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5863c83b3e4f48bb0075f3f63fa86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3174d88315a284e826e6218bec6c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_143
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac63c369fa62ee4683173104c45c907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_144
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fea0363afae347aab3725e4740bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_145
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d43f20a148f22143840bded59f22397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_kamehameha__rose_sprite_by_skcollabs-dblzocq_146
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 8
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be55aefd71eca45a56be2e78a02edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dfdd559251c4318438f0747fd280c91e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
